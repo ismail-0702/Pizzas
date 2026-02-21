@@ -14,7 +14,6 @@
         android:layout_height="180dp"
         android:src="@mipmap/icon"
         android:contentDescription="Logo" />
-
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -23,9 +22,7 @@
         android:textColor="#ffffff"
         android:textSize="28sp"
         android:textStyle="bold|italic" />
-
 </LinearLayout>
-
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
